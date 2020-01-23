@@ -3,7 +3,7 @@
 
 <ul>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Theoretical-Blockchain-Research-Papers/blob/master/tbr(1).pdf" style="text-decoration:none;">Effect of Bitcoin fee on transaction-conrmation process</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Theoretical-Blockchain-Research-Papers/blob/master/tbr(1).pdf" style="text-decoration:none;">Effect of Bitcoin fee on transaction-confirmation process</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Theoretical-Blockchain-Research-Papers/blob/master/tbr(2).pdf" style="text-decoration:none;">Blockchain Mining Games</a></b></li>
 
